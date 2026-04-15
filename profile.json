@@ -1,9 +1,9 @@
 {
     "data": {
-        "displayName": "TW3 DAO",
-        "githubName": "tw3-dao",
-        "evmAddress": "0x0000000000000000000000000000000000000000",
-        "signedAt": 0
+        "displayName": "TechnicallyWeb3",
+        "githubName": "TechnicallyWeb3",
+        "evmAddress": "0xda00006427e534b1acde93b9e66d8a9d2c66b2d3",
+        "signedAt": 1776228652
     },
-    "signature": "0x00"
+    "signature": "0xea68a5c22e5f5c7e67c64548cca55eb6d2ca7eaa687d8643d437fbbe447c845008a80d0eafb97a7b091eb4923f21bbc6107608edb1cf63a24ffdcd883a7d1a7b1b"
 }
